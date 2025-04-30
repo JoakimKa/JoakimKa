@@ -35,9 +35,10 @@ On my free time i enjoy playing video games and learning new skills. I also enjo
 *Currently Studying: Information and Communication Technology (Second year)*
 
 - **Key Courses & Skills:**
-  - Python programming fundamentals.
+  - Python programming fundamentals
   - Unit Testing
-  - C#
+  - C# fundamentals
+  - HTML, Svelte and react
   - Microsoft Office (Excel, PowerPoint, Word).
   - Customer service principles.
   - Hands-on experience with TV equipment and computer hardware:
@@ -51,7 +52,7 @@ On my free time i enjoy playing video games and learning new skills. I also enjo
 
 - **Technical Skills:** C#, Python, hardware assembly/disassembly, OS installation (Windows & Linux), command-line operations.
 - **Software Proficiency:** Microsoft Office Suite (Excel, PowerPoint, Word).
-- **Academic Strengths:** Mathematics, Physics, Chemistry.
+- **Academic Strengths:** Mathematics, English, Chemistry.
 - **Languages:** English, Finnish.
 
 ---
