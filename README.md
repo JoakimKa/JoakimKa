@@ -58,7 +58,6 @@ On my free time i enjoy playing video games and learning new skills. I also enjo
 
 ## Additional Information
 
-- **Availability:** Spring 2025.
 
 ---
 
